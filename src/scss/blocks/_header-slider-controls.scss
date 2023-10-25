@@ -1,0 +1,30 @@
+.slider-controls {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
+
+.slider-controls__arrows {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5.95px;
+	opacity: .3;
+}
+
+.slider-controls__count,
+.swiper-pagination-fraction {
+  color: rgba(255, 255, 255, 0.3) !important;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.swiper-pagination-current {
+  color: var(--white);
+  font-family: Montserrat;
+  font-size: 32px;
+}
