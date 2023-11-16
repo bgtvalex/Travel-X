@@ -1,5 +1,7 @@
 # project: Travel X
 
+* [demo](https://bgtvalex.github.io/Travel-X/)
+
 ### Technologies:
 * HTML, CSS, SASS, JS, Gulp, Webpack.
 
